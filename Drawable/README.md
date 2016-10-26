@@ -13,3 +13,8 @@ There are at least 17 types of drawables but there are five that are most import
 </ol>
 
 Let's explore these drawable file types one by one and take a look at examples of usage.
+
+
+##Shape Drawable
+
+The Shape Drawable is an XML file that defines a geometric shape, including colors and gradients. 
