@@ -19,7 +19,7 @@ Let's explore these drawable file types one by one and take a look at examples o
 
 The Shape Drawable is an XML file that defines a geometric shape, including colors and gradients. 
 
-### Solid Color Shape With Border
+### Solid Color Shape With Border:
 
 create a <b>drawable</b> file named as 'drawable/solid_color_shape'
 
@@ -62,7 +62,8 @@ And display the button in the activity_main.xml file by pasting this code.
 
     
 	
-### Gradient Color Shape
+### Gradient Color Shape:
+
 create a <b>drawable</b> file named as 'drawable/gradient_color_shape'
 ```XML
 <?xml version="1.0" encoding="utf-8"?>
@@ -103,7 +104,8 @@ And display the button in the activity_main.xml file by pasting this code.
 ```
 create a <b>drawable</b> file named as 'drawable/radial_type_resources'
 
-### Radial Gradient Color Shape
+### Radial Gradient Color Shape:
+
 ```XML
 <?xml version="1.0" encoding="utf-8"?>
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
