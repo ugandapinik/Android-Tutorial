@@ -14,6 +14,8 @@ There are at least 17 types of drawables but there are five that are most import
 
 Let's explore these drawable file types one by one and take a look at examples of usage.
 
+![screenshot_7](https://cloud.githubusercontent.com/assets/13005159/19742414/cc44a250-9be6-11e6-875e-cdd47cf885a0.png)
+
 
 ##Shape Drawable
 
