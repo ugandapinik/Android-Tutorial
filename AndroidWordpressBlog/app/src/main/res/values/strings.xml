@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Wordpress Blog</string>
+    <string name="title_activity_posts">Posts</string>
+</resources>
