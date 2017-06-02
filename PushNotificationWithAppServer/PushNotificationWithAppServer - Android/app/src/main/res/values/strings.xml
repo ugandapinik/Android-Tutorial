@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PushNotificationWithAppServer</string>
+    <string name="FCM_PREFERENCES">com.example.wohhi.pushnotificationwithappserver</string>
+    <string name="FCM_TOKEN">com.example.wohhi.pushnotificationwithappserver_token</string>
+</resources>
