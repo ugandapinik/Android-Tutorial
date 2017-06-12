@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Location Manager</string>
+    <string name="option_get_place">Nearby Places</string>
+</resources>
